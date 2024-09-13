@@ -10,3 +10,4 @@ Here are some blog posts about some of the public projects you can find on my Gi
 
 [Data Structures & Algorithms Library](projects/dsa.markdown)
 
+[Mathematics of Crash](projects/crash.markdown)

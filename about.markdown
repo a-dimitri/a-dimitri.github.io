@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This page is under construction. Just like me.
+:construction: This page is under construction. Just like me. :construction:

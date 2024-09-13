@@ -5,4 +5,4 @@ permalink: /projects/fic
 exclude: true
 ---
 
-This page is under construction. Just like me.
+:construction: This page is under construction. Just like me. :construction:
