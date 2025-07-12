@@ -7,8 +7,8 @@ title: Hi, I'm Antoni
 exclude: true
 ---
 
-Welcome to my soapbox.
-
-[About Me](about.markdown)
+I am an Engineer and Researcher based in Sydney, Australia with a passion for learning. My research experience is mostly focused in speech processing and semi-supervised learning. I am a diligent, reliable, and motivated worker with a love of mathematics and problem solving, and I never shy away from a challenge.
 
 [Projects](projects.markdown)
+
+[Publications](publications.markdown)

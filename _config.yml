@@ -20,13 +20,13 @@
 
 title: a-dimitri.github.io
 author: Antoni Dimitriadis
-email: antoni.dimitriadis@gmail.com
+email: antoni.dimitriadis.work@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Just a basic site for me to share some things I find fun. Built with Github Pages using Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  a-dimitri
-linkedin_username: antoni-dimitriadis-795392141
+linkedin_username: a-dimitri
 
 # Build settings
 theme: minima

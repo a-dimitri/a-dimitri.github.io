@@ -5,7 +5,7 @@ permalink: /projects/dsa
 exclude: true
 ---
 
-In my [dsa-implementations] repo, you will find C++ implementations of a selection of some data structures and associated algorithms that are not included by default in the C++ STL, along with some basic unit testing. While I originally wrote them for use in competitive programming (particularly Leetcode competitions). Feel free to repurpose them to your hearts desire. This is the current list of included data structures and algorithms:
+In my [dsa-implementations] repo, you will find C++ implementations of a selection of some data structures and associated algorithms that are not included by default in the C++ STL, along with some basic unit testing. These were originally written for use in competitive programming (particularly Leetcode competitions), but feel free to repurpose them for your own needs. This is the current list of included data structures and algorithms:
 
 - Binary Search
     - Exact match, upper bound, lower bound
